@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 84" role="img" aria-labelledby="title desc">
+  <title id="title">DeltaTech</title>
+  <desc id="desc">DeltaTech geometric delta symbol and wordmark</desc>
+  <defs>
+    <linearGradient id="delta-gradient" x1="8" y1="8" x2="75" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#14B8D4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#delta-gradient)" fill-rule="evenodd" d="M42 4 80 76H4L42 4Zm0 22L24 62h34L42 26Z"/>
+  <path fill="url(#delta-gradient)" d="M42 39 64 76H42V39Z" opacity=".68"/>
+  <g fill="#7C5CFC">
+    <path d="M102 18h22c18 0 30 9 30 24s-12 24-30 24h-22V18Zm21 37c11 0 18-4 18-13s-7-13-18-13h-8v26h8Z"/>
+    <path d="M158 42c0-15 10-25 25-25 14 0 23 9 23 24 0 2 0 4-1 6h-34c1 7 6 10 13 10 5 0 9-2 13-5l7 8c-6 5-12 7-21 7-15 0-25-10-25-25Zm35-4c-1-6-4-10-10-10s-10 4-11 10h21Z"/>
+    <path d="M212 14h13v52h-13V14Z"/>
+    <path d="M238 51V29h-8V18h8V7h13v11h13v11h-13v20c0 5 2 7 6 7 2 0 4-1 6-2l3 10c-4 2-8 3-13 3-10 0-15-5-15-16Z"/>
+    <path d="M267 54c0-9 7-14 20-14h11v-2c0-6-3-9-10-9-5 0-10 2-14 5l-5-9c6-5 13-7 21-7 14 0 21 7 21 20v28h-12v-6c-3 5-8 7-15 7-10 0-17-5-17-13Zm31-5v-2h-9c-6 0-9 2-9 6 0 3 3 5 7 5 6 0 11-4 11-9Z"/>
+  </g>
+  <g fill="#14B8D4">
+    <path d="M329 29h-15V18h44v11h-15v37h-14V29Z"/>
+    <path d="M354 49c0-11 8-18 19-18 10 0 18 7 18 18v4h-26c1 4 4 6 9 6 4 0 7-1 10-4l6 6c-4 4-9 6-16 6-12 0-20-7-20-18Zm26-3c0-4-3-7-7-7-5 0-7 3-8 7h15Z"/>
+    <path d="M394 49c0-11 8-18 19-18 3 0 5 1 7 2v11c-2-2-4-3-7-3-5 0-8 3-8 8s3 8 8 8c3 0 5-1 7-3v11c-3 1-5 2-8 2-11 0-18-7-18-18Z"/>
+  </g>
+</svg>

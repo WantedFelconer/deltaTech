@@ -1,0 +1,10 @@
+{
+  "description": "A technology commerce platform for shoppers and retailers in Bangladesh, combining product discovery, online purchasing, and tools to manage sales, inventory, and business operations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
